@@ -1,0 +1,6 @@
+../Src/lcd.c:7:6:lcd_send_cmd	24	static
+../Src/lcd.c:20:6:lcd_send_data	24	static
+../Src/lcd.c:33:6:setCursor	24	static
+../Src/lcd.c:46:6:lcd_send_string	16	static
+../Src/lcd.c:50:6:lcd_init	8	static
+../Src/lcd.c:81:6:lcd_clear	8	static
